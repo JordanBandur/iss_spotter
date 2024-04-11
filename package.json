@@ -1,0 +1,22 @@
+{
+  "name": "iss_spotter",
+  "version": "1.0.0",
+  "description": "An app that uses API requests to determine when the ISS will be spotted at the user's location.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordanBandur/iss_spotter.git"
+  },
+  "author": "Jordan Bandur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JordanBandur/iss_spotter/issues"
+  },
+  "homepage": "https://github.com/JordanBandur/iss_spotter#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
